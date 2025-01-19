@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Map_DarkSouls.umap",
 				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/StarterContent/Maps/Untitled_HLOD0_Instancing.uasset",
 				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/__ExternalActors__/StarterContent/Maps/Untitled/1/3E/APTIR7EV48SYJ5PFT2I13L.uasset",
 				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/__ExternalObjects__/StarterContent/Maps/Untitled/1/NH/KJ25MMGSHX4AOEPQLYM68A.uasset",
@@ -174,13 +173,25 @@
 				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Bleuprint/BP_CustomGameMode.uasset",
 				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/ABP_Player.uasset",
 				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Bleuprint/BP_Player.uasset",
-				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/BP_Player.uasset",
-				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Map_Combo.umap",
 				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Sword_Animations/Animations/Sequence1/04_Run/04_Run_Combat_RM/01_Run_Combat_F_0_RM/Run_Combat_Loop_F_0_RM_Seq.uasset",
-				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Sword_Animations/Animations/BS_IdleRun.uasset",
 				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/BS_IddleRun.uasset",
 				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Sword_Animations/Animations/Sequence1/02_Attack/03_Combo_Attack_03/Combo_Attack_03_01_Seq_Montage.uasset",
-				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/DarkSouls.umap"
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/DarkSouls.umap",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Roll_F_0_Seq.uasset",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Sword_Animations/Animations/Sequence1/07_Roll/02_Roll_Combat/Roll_F_0_Seq.uasset",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Inputs/Actions/IA_Roll.uasset",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Inputs/IMC_Player.uasset",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Sword_Animations/Animations/Sequence1/07_Roll/02_Roll_Combat/Roll_Combat_F_0_Seq_Montage.uasset",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Sword_Animations/Animations/Sequence1/02_Attack/05_Combo_Attack_Wave_05/Combo_Attack_Wave_05_All_Seq_Montage.uasset",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Inputs/Actions/IA_LightAttack.uasset",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/ABP_BadGuy.uasset",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Bleuprint/BP_BadGuy.uasset",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Inputs/Actions/IA_Attack.uasset",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/WG_Health.uasset",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Map_DarkSouls.umap",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/BP_Player.uasset",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Map_Combo.umap",
+				"C:/Users/taber/Desktop/cours/DarkSoul_Exos/DarkSoul_Exos/DarkSouls/Content/Sword_Animations/Animations/BS_IdleRun.uasset"
 			]
 		}
 	]
